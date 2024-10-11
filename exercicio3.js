@@ -22,4 +22,3 @@ filme.elenco[0]="XuXa"
 
 console.log(filme)
 
-
