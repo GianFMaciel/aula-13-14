@@ -12,7 +12,7 @@ const pessoa2 = {
 
 const recebendoPessoas = (pessoa) => {
     const resultado = []
-    rusultado.push(pessoa.nome)
+    resultado.push(pessoa.nome)
     resultado.push(pessoa.nome.lenght)
     resultado.push(pessoa.idade)
     resultado.push(pessoa.profissao)
